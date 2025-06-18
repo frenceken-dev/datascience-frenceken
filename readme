@@ -1,0 +1,13 @@
+# 📈 Comparación de la Inflación: Venezuela vs Alemania
+
+Este notebook analiza visualmente los índices de inflación de Venezuela y Alemania a través de un gráfico comparativo.
+
+## 📦 Librerías utilizadas
+- pandas
+- matplotlib
+- seaborn
+
+## 🚀 Cómo ejecutar
+```bash
+pip install -r requirements.txt
+jupyter notebook "inflation ven vs deu.ipynb"

@@ -1,13 +1,34 @@
-# 📈 Comparación de la Inflación: Venezuela vs Alemania
+# 📊 Visualización de Índices Económicos
 
-Este notebook analiza visualmente los índices de inflación de Venezuela y Alemania a través de un gráfico comparativo.
+Este proyecto forma parte de mi portafolio de análisis de datos. Aquí exploro y visualizo diferentes indicadores económicos —como tasas de inflación— utilizando herramientas de análisis y visualización en Python.
 
-## 📦 Librerías utilizadas
-- pandas
-- matplotlib
-- seaborn
+Todas las visualizaciones se han realizado con fines educativos y reflejan mi progreso en el aprendizaje de técnicas analíticas, regresión y estilo gráfico personalizado.
 
-## 🚀 Cómo ejecutar
-```bash
-pip install -r requirements.txt
-jupyter notebook "inflation ven vs deu.ipynb"
+---
+
+## 🧰 Tecnologías utilizadas
+
+- **Python 3**
+- **Pandas** – para manipulación y limpieza de datos
+- **NumPy** – para operaciones numéricas
+- **Seaborn & Matplotlib** – para gráficos avanzados y visualización profesional
+- **Jupyter Notebook** – como entorno de desarrollo y documentación
+
+---
+
+## 🌱 Objetivo
+
+Practicar y mostrar habilidades en análisis de series temporales, visualización clara y personalización avanzada con Seaborn y Matplotlib.
+
+---
+
+## 🤝 Contribuciones y feedback
+
+Este proyecto es educativo. Cualquier sugerencia, mejora o aporte que ayude a crecer y aprender será muy bienvenido.  
+Críticas destructivas, no.
+
+---
+
+> “La confianza no viene de saberlo todo, sino de estar dispuesto a aprender cualquier cosa.” – ✨
+
+
